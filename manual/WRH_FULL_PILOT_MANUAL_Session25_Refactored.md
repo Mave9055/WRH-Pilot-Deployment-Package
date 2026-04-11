@@ -103,7 +103,8 @@ Neural Pathways Rewritten --> Voice Rebuild Initiated
 ```
 
 | Cue Type | Action |
-| :--- | :--- |\n| **Tone** | Keep the energy moving like you’re installing a new communication module. |
+| :--- | :--- |
+| **Tone** | Keep the energy moving like you’re installing a new communication module. |
 | **Pause** | Leave the board up. Step back. Eyes scanning the room. |
 | **Fidelity Check** | (Approx. 45:00) Are participants grasping `The Voice Rebuild` as a `reprogramming` process? Is the `Whiteboard Blueprint` clear? |
 
