@@ -90,4 +90,71 @@ Old Wiring (Glass Box, Blanket Night) --> Stable Contact = Ambush/Threat
 Pattern Recognition: Identify Ambush Protocol Activation
     |
     v
-Interrupt: 
+Interrupt: 'This is The Ambush Protocol' --> Prefrontal Cortex Engages
+    |
+    v
+Micro-Moments of Stable Contact (New Data) --> Signals of Safety
+    |
+    v
+Neural Pathways Rewritten --> Stable Contact Blueprint Built
+```
+
+| Cue Type | Action |
+| :--- | :--- |
+| **Tone** | Keep the energy moving like you’re designing a new network architecture. |
+| **Pause** | Leave the board up. Step back. Eyes scanning the room. |
+| **Fidelity Check** | (Approx. 45:00) Are participants grasping `The Stable Contact Blueprint` as a `rewiring` process? Is the `Whiteboard Blueprint` clear? |
+
+---
+
+## [55:00 – 70:00] THE MIRROR & SHIFT
+
+### Purpose
+
+Facilitate recognition of `The Ambush Protocol` in personal experience. Introduce a `One-Second Tool`.
+
+### The What (Facilitator Script)
+
+**The Prompt**
+
+> "You don’t have to say a word. Just notice: If you’ve ever found calm people unsettling, or sabotaged a stable connection because it felt ‘too good to be true’… that’s not broken. That’s data. That’s `The Machine` running `The Ambush Protocol`, interpreting `safety` as a `prelude to attack`."
+
+**The One-Second Tool**
+
+"Here’s your tool for right now — the `contact interrupt`: When you feel `The Ambush Protocol` engaging in a stable connection, silently name it: ‘This is `The Ambush Protocol` — old `wiring` is firing.’ Naming it gives your `prefrontal cortex` one second of air. One second to observe the `mechanism`, and consciously choose to sustain the `stable contact`. Small move. Massive difference."
+
+### The How (Facilitator Cues)
+
+| Cue Type | Action |
+| :--- | :--- |
+| **Tone** | Direct. Low, intense voice. Zero pressure. |
+| **Fidelity Check** | (Approx. 65:00) Are participants engaging with `The Mirror` concept? Are they receptive to the `contact interrupt`? |
+
+---
+
+## [70:00 – 75:00] CLOSE + REGULATION + CLIFFHANGER
+
+### Purpose
+
+Re-ground participants and bridge to Session 25.
+
+### The What (Facilitator Script)
+
+**Final Regulation**
+
+"Final regulation check before we leave. Feet on floor. One hand on chest, one on belly. Breathe in for four… hold… out for six. Do it with me. Good. Notice the room. Notice you are safe. Notice you are in control."
+
+**Cliffhanger**
+
+"Next session: `The Voice Rebuild` — why finding your `voice` is the scariest thing in the room. We’ll explore how to `reprogram The System` to allow for `authentic expression`."
+
+**Dismissal**
+
+"You’re free. `Yellow Light` or `Red Light` anytime. See you next session — because now you know how to build `The Stable Contact Blueprint`… and you’re not going to want to miss how we `rebuild The Voice`."
+
+### The How (Facilitator Cues)
+
+| Cue Type | Action |
+| :--- | :--- |
+| **Tone** | Stronger. Lean forward like you’re handing them the next piece of critical system data. |
+| **Post-Session Data Point** | Log how many participants appeared to engage with `The Stable Contact Blueprint` concept and the `contact interrupt` tool. |
