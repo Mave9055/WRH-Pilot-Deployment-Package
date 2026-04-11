@@ -1,64 +1,64 @@
-# WRH Master Summary
+# WRH Master Summary — Version 4.0 "Technical Standard"
 
 ## Master Table of Contents for Facilitator Navigation
 
-This summary is designed to provide a single navigation point for the full **What Really Happened (WRH)** pilot package. Each entry below points to the relevant session location inside the three-part facilitator manual so facilitators, supervisors, and program administrators can move through the deployment package without searching manually through long files.
+This summary is the single navigation point for the **What Really Happened (WRH)** Pilot Deployment Package, now upgraded to the **Version 4.0 "Technical Standard"**. Each session below follows the **Tactical Cockpit** layout, featuring integrated `Fidelity Checkpoints`, `Glossary Linking`, and `Whiteboard Blueprints`.
 
 ---
 
-## Manual Part 1
+## Arc 1: The Machine (S00 – S10)
 
-| Session | Title | Link |
+| Session | Title | Resource |
 | :--- | :--- | :--- |
-| **S00** | Welcome, Safety, and Why This Course Exists | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part1.md#session-00--welcome-safety-and-why-this-course-exists) |
-| **S01** | The Mechanism | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part1.md#session-01--the-mechanism) |
-| **S02** | The Blueprint | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part1.md#session-02--the-blueprint) |
-| **S03** | The First Pattern Lock | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part1.md#session-03--the-first-pattern-lock) |
-| **S04** | The Hum | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part1.md#session-04--the-hum) |
-| **S05** | The Mask | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part1.md#session-05--the-mask) |
-| **S06** | The Crash | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part1.md#session-06--the-crash) |
-| **S07** | The Disappearing Act | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part1.md#session-07--the-disappearing-act) |
+| **S00** | Welcome, Safety, and Why This Course Exists | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session00_Refactored.md) |
+| **S01** | The Mechanism | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session01_Refactored.md) |
+| **S02** | The Blueprint | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session02_Refactored.md) |
+| **S03** | The First Pattern Lock | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session03_Refactored.md) |
+| **S04** | The Hum | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session04_Refactored.md) |
+| **S05** | The Mask | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session05_Refactored.md) |
+| **S06** | The Crash | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session06_Refactored.md) |
+| **S07** | The Disappearing Act | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session07_Refactored.md) |
+| **S08** | The Miss | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session08_Refactored.md) |
+| **S09** | The Loop | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session09_Refactored.md) |
+| **S10** | The Mirror | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session10_Refactored.md) |
 
 ---
 
-## Manual Part 2
+## Arc 2: The Drivers (S11 – S20)
 
-| Session | Title | Link |
+| Session | Title | Resource |
 | :--- | :--- | :--- |
-| **S08** | The Miss | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part2.md#session-08--the-miss-ftas--responsibility-failure) |
-| **S09** | The Loop | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part2.md#session-09--the-loop) |
-| **S10** | The Mirror | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part2.md#session-10--the-mirror) |
-| **S11** | The Body Keeps Score | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part2.md#session-11--the-body-keeps-score) |
-| **S12** | Trigger vs Activation | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part2.md#session-12--trigger-vs-activation) |
-| **S13** | The Threshold | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part2.md#session-13--the-threshold) |
-| **S14** | Fight, Flight, Freeze (Real World Version) | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part2.md#session-14--fight-flight-freeze-real-world-version) |
+| **S11** | The Body Keeps Score | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session11_Refactored.md) |
+| **S12** | Trigger vs Activation | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session12_Refactored.md) |
+| **S13** | The Threshold | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session13_Refactored.md) |
+| **S14** | Fight, Flight, Freeze (Real World Version) | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session14_Refactored.md) |
+| **S15** | Dissociation | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session15_Refactored.md) |
+| **S16** | Time Collapse | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session16_Refactored.md) |
+| **S17** | The Permission Paradox | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session17_Refactored.md) |
+| **S18** | The Control Circuit | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session18_Refactored.md) |
+| **S19** | The Somatic Record | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session19_Refactored.md) |
+| **S20** | The Constructed Self | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session20_Refactored.md) |
 
 ---
 
-## Manual Part 3
+## Arc 3: The Interrupt & Restore (S21 – S30)
 
-| Session | Title | Link |
+| Session | Title | Resource |
 | :--- | :--- | :--- |
-| **S15** | Dissociation | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part3.md#session-15--dissociation) |
-| **S16** | Time Collapse | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part3.md#session-16--time-collapse) |
-| **S17** | The Permission Paradox | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part3.md#s17--the-permission-paradox) |
-| **S18** | The Control Circuit | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part3.md#s18--the-control-circuit) |
-| **S19** | The Somatic Record | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part3.md#s19--the-somatic-record) |
-| **S20** | The Constructed Self | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part3.md#s20--the-constructed-self) |
-| **S21** | The Ghost Protocol | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part3.md#s21--the-ghost-protocol) |
-| **S22** | Trigger vs. Threat | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part3.md#s22--trigger-vs-threat) |
-| **S23** | The Pattern Veto | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part3.md#s23--the-pattern-veto) |
-| **S24** | The Stable Contact Blueprint | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part3.md#s24--the-stable-contact-blueprint) |
-| **S25** | The Voice Rebuild | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part3.md#s25--the-voice-rebuild) |
-| **S26** | Accountability Without Self-Destruction | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part3.md#s26--accountability-without-self-destruction) |
-| **S27** | Container Design | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part3.md#s27--container-design) |
-| **S28** | The Legacy Architecture | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part3.md#s28--the-legacy-architecture) |
-| **S29** | Still Here | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part3.md#s29--still-here) |
-| **S30** | The Manifesto | [Open Session](./manual/WRH_FULL_PILOT_MANUAL_Part3.md#s30--the-manifesto) |
+| **S21** | The Ghost Protocol | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session21_Refactored.md) |
+| **S22** | Trigger vs. Threat | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session22_Refactored.md) |
+| **S23** | The Pattern Veto | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session23_Refactored.md) |
+| **S24** | The Stable Contact Blueprint | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session24_Refactored.md) |
+| **S25** | The Voice Rebuild | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session25_Refactored.md) |
+| **S26** | Accountability Without Self-Destruction | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session26_Refactored.md) |
+| **S27** | The Executive Function Restore | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session27_Refactored.md) |
+| **S28** | The Code Rewrite | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session28_Refactored.md) |
+| **S29** | The System Optimization | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session29_Refactored.md) |
+| **S30** | The Integrated System | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Session30_Refactored.md) |
 
 ---
 
-## Quick Reference
+## Technical Appendix
 
 | Resource | Link |
 | :--- | :--- |
@@ -70,4 +70,4 @@ This summary is designed to provide a single navigation point for the full **Wha
 
 ---
 
-This file is intended to function as the master navigation index for the WRH pilot deployment package.
+This file functions as the master navigation index for the WRH Pilot Deployment Package.
