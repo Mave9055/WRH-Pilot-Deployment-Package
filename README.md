@@ -4,40 +4,66 @@
 
 **Program:** What Really Happened (WRH) — Trauma Psychoeducation and Executive Function Restoration  
 **Version:** 4.0 | April 2026  
-**Status:** 🟢 Deployment-Ready  
+**Status:** Deployment-Ready
 
 ---
 
-## 📂 Repository Structure
-/
-├── manual/
-│   ├── WRH_FULL_PILOT_MANUAL_Part1.md    → Facilitator Infra + Sessions 00–10
-│   ├── WRH_FULL_PILOT_MANUAL_Part2.md    → Sessions 11–16 (Original Pilot)
-│   └── WRH_FULL_PILOT_MANUAL_Part3.md    → Sessions 17–30 (The Interrupt Arc)
-├── assets/
-│   └── Plan_B_Wallet_Card.md             → Participant grounding tool
-└── legal/
-└── Capability_Statement.md           → VA-Ready federal capability statement
-## 🎯 The 30-Session Arc
+## Repository Overview
 
-| Arc | Sessions | Theme |
+This repository contains the primary deployment materials for the **What Really Happened (WRH)** pilot program developed for **Capitol Contracts LLC**. The package is organized for facilitator use, program administration, and federal-facing review. It includes the three-part facilitator manual, participant support assets, legal documentation, and navigation aids intended to support disciplined delivery in institutional and community-based environments.
+
+---
+
+## Repository Structure
+
+| Path | Description |
+| :--- | :--- |
+| `manual/WRH_FULL_PILOT_MANUAL_Part1.md` | Facilitator infrastructure, Session 00, and Sessions 01–07 |
+| `manual/WRH_FULL_PILOT_MANUAL_Part2.md` | Sessions 08–14 |
+| `manual/WRH_FULL_PILOT_MANUAL_Part3.md` | Sessions 15–30 |
+| `assets/Plan_B_Wallet_Card.md` | Participant reference and regulation support tool |
+| `legal/Capability_Statement.md` | Federal-facing capability statement for Capitol Contracts LLC |
+| `SUMMARY.md` | Master table of contents for rapid facilitator navigation |
+| `checklists/Facilitator_Readiness_Checklist.md` | Operational readiness checklist for session delivery |
+| `manual/WRH_Glossary.md` | Program glossary for recurring terms and concepts |
+
+---
+
+## Full Session Map
+
+| Manual Part | Session Coverage | Primary Function |
 | :--- | :--- | :--- |
-| **Arc 1 — THE SYSTEM** | S00–S10 | How trauma wiring is installed |
-| **Arc 2 — THE DRIVERS** | S11–S20 | What keeps the patterns running |
-| **Arc 3 — THE INTERRUPT** | S21–S30 | Skill installation & identity reconstruction |
-
-## 🚀 Program At A Glance
-* **Format:** 30-Session Group Cohort | 75 min/session
-* **Target Population:** Justice-Involved Adults, Veterans, Recovery Populations
-* **Delivery Model:** Non-Exposure Psychoeducation (no trauma disclosure required)
-* **Federal Standards:** VA, DOJ, HUD, SAMHSA curriculum-ready
-
-## 📑 Key Documents
-* 📘 **[Facilitator Manual Part 1 (Intro & Arc 1)](./manual/WRH_FULL_PILOT_MANUAL_Part1.md)**
-* 📘 **[Facilitator Manual Part 2 (Arc 2)](./manual/WRH_FULL_PILOT_MANUAL_Part2.md)**
-* 📘 **[Facilitator Manual Part 3 (Arc 3)](./manual/WRH_FULL_PILOT_MANUAL_Part3.md)**
-* 💳 **[Plan B Wallet Card](./assets/Plan_B_Wallet_Card.md)**
-* ⚖️ **[Capability Statement](./legal/Capability_Statement.md)**
+| **Part 1** | Session 00 and Sessions 01–07 | Facilitator infrastructure and program launch |
+| **Part 2** | Sessions 08–14 | Continuation of the core pilot sequence |
+| **Part 3** | Sessions 15–30 | Advanced instruction, interruption skills, and closing sequence |
 
 ---
-*Capitol Contracts LLC | Federal Contracting Standard | Classification: Deployment-Ready*
+
+## Program Positioning
+
+| Category | Description |
+| :--- | :--- |
+| **Delivery Model** | Cohort-based psychoeducational instruction |
+| **Session Length** | 75 minutes per session, with Session 00 structured as intake and orientation |
+| **Target Populations** | Veterans, justice-involved adults, recovery populations, and transitional-support participants |
+| **Instructional Style** | Structured, non-exposure curriculum using systems language and case-based learning |
+| **Deployment Use** | Facilitator-led training environments requiring consistent delivery and clear participant safeguards |
+
+---
+
+## Key Documents
+
+| Document | Link |
+| :--- | :--- |
+| **Facilitator Manual Part 1** | [Open Part 1](./manual/WRH_FULL_PILOT_MANUAL_Part1.md) |
+| **Facilitator Manual Part 2** | [Open Part 2](./manual/WRH_FULL_PILOT_MANUAL_Part2.md) |
+| **Facilitator Manual Part 3** | [Open Part 3](./manual/WRH_FULL_PILOT_MANUAL_Part3.md) |
+| **Plan B Wallet Card** | [Open Asset](./assets/Plan_B_Wallet_Card.md) |
+| **Capability Statement** | [Open Capability Statement](./legal/Capability_Statement.md) |
+| **Master Summary** | [Open Summary](./SUMMARY.md) |
+| **Facilitator Checklist** | [Open Checklist](./checklists/Facilitator_Readiness_Checklist.md) |
+| **WRH Glossary** | [Open Glossary](./manual/WRH_Glossary.md) |
+
+---
+
+Capitol Contracts LLC maintains this package as a structured pilot deployment resource intended for professional facilitator use, operational review, and institutional onboarding.

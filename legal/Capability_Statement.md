@@ -1,91 +1,93 @@
-# CAPABILITY STATEMENT
-## What Really Happened (WRH) — VA-Ready Program Description
+# Capitol Contracts LLC Capability Statement
 
-**Program Title:** What Really Happened: Trauma Psychoeducation and Executive Function Restoration  
-**Classification:** Non-Exposure Psychoeducational Curriculum  
-**Format:** 30-Session Group Cohort | 75 minutes per session  
-**Target Population:** Justice-Involved Adults, Veterans, Substance Use Recovery Populations, Transitional Housing Clients  
+## What Really Happened (WRH) Pilot Deployment
 
----
-
-## EXECUTIVE SUMMARY
-
-The WRH Pilot Program is a 30-session, trauma-informed psychoeducational curriculum designed to reduce recidivism, increase program retention, and improve executive function outcomes in high-risk adult populations. The program delivers evidence-based neuroscience education in a non-exposure format — meaning participants learn the mechanisms of Complex PTSD without being required to relive or disclose personal trauma histories.
+**Entity:** Capitol Contracts LLC  
+**Program:** What Really Happened (WRH)  
+**Service Line:** Trauma psychoeducation, executive function training, facilitator support, and structured program deployment  
+**Delivery Format:** 30-session cohort model, 75 minutes per session  
+**Target Environments:** Veterans services, justice-involved reentry programs, behavioral health support settings, transitional housing, and community-based recovery operations
 
 ---
 
-## CLINICAL FRAMEWORK
+## Company Overview
 
-**Primary Modality:** Psychoeducation (Non-Exposure)  
-**Theoretical Basis:**  
-- Polyvagal Theory (Porges, 2011)  
-- Complex PTSD Diagnostic Framework (Herman, 1992; ICD-11)  
-- Somatic Experiencing Principles (Levine)  
-- Attachment Theory (Bowlby)  
-- Executive Dysfunction Mitigation through Psychoeducation
+Capitol Contracts LLC develops and deploys structured training programs for high-risk adult populations that require practical, repeatable, and operationally disciplined service delivery. The firm's WRH Pilot Deployment is designed as a **non-exposure psychoeducational training model** that teaches participants how stress conditioning, survival responses, and executive function disruption affect judgment, attendance, follow-through, and daily performance.
 
-**Core Mechanisms Addressed:**
-- Amygdala Hijack and Prefrontal Cortex Suppression
-- Dorsal Vagal Shutdown (Freeze Response)
-- Hypervigilance and Chronic Threat Assessment
-- Fawn Response and Appeasement Behavior
-- Failure to Appear (FTA) Loop as Executive Dysfunction Output
-- Somatic Record and Body-Based Threat Storage
-- Pattern Veto Skill Installation
+The program is built for organizations that need a curriculum capable of functioning in real-world field environments where consistency, participant safety, facilitator structure, and documentation discipline are essential. WRH is designed to support implementation in settings serving veterans, justice-involved adults, recovery populations, and participants navigating housing or workforce instability.
 
 ---
 
-## THE 30-SESSION ARC
+## Core Competencies
 
-| Arc | Sessions | Focus |
-|-----|---------|-------|
-| Arc 1 — THE SYSTEM | S00–S10 | How trauma wiring is installed |
-| Arc 2 — THE DRIVERS | S11–S20 | What keeps the patterns running |
-| Arc 3 — THE INTERRUPT | S21–S30 | Skill installation and identity reconstruction |
-
----
-
-## PROGRAM DIFFERENTIATORS
-
-1. **Non-Exposure Format:** Zero requirement for personal disclosure. Participants learn through a documented case study (the Architect), not through sharing their own trauma histories. This dramatically reduces re-traumatization risk and dropout rates.
-
-2. **Facilitator Safety Architecture:** Built-in Yellow/Red Light protocols, standardized grounding scripts, and facilitator decompression guidelines ensure clinical safety without requiring licensed therapist delivery.
-
-3. **Federal Contracting Readiness:** Program documentation meets VA, DOJ, HUD, and SAMHSA curriculum standards. Includes pre/post assessment tools, confidentiality agreements, and session-level outcome tracking.
-
-4. **Equity-Centered Design:** Developed from lived experience. The Architect case study reflects the specific intersection of race, class, justice involvement, and complex trauma common to program target populations.
+| Capability Area | Description |
+| :--- | :--- |
+| **Structured Psychoeducational Delivery** | Provides a sequenced 30-session curriculum that explains survival patterning, behavioral loops, executive disruption, and interruption skills in clear operational language. |
+| **Facilitator-Ready Program Architecture** | Supplies session-by-session delivery structure, pacing, learning objectives, participant prompts, and practical room-management guidance for consistent implementation. |
+| **Non-Disclosure Training Model** | Uses an instructional format that does not require participants to recount personal trauma histories in order to engage the material. |
+| **Executive Function Restoration Support** | Addresses missed appointments, avoidance cycles, shutdown responses, inconsistent follow-through, and other functional barriers through a repeatable training sequence. |
+| **Federal and Institutional Deployment Utility** | Fits program environments that require standardized materials, replicable instruction, participant safeguards, and documentation-ready curriculum assets. |
 
 ---
 
-## OUTCOME TARGETS (30-Session Cohort)
+## WRH Program Snapshot
 
-| Metric | Baseline | Target Outcome |
-|--------|---------|---------------|
-| Program Retention Rate | 40–55% (industry avg) | ≥75% |
-| Self-Reported Emotional Regulation Skill | Low | Moderate–High |
-| FTA Rate (Justice-Involved) | Baseline TBD | ≥20% reduction |
-| Self-Reported Safety in Group Setting | Variable | ≥85% report feeling safe |
-
----
-
-## FACILITATOR REQUIREMENTS
-
-- Minimum: Certified Peer Support Specialist or equivalent lived experience credential
-- Preferred: CADC, LCSW, LPC, or equivalent
-- Training: 8-hour WRH Facilitator Orientation (available upon contract)
-- Supervision: Bi-weekly clinical consultation recommended
+| Program Element | Details |
+| :--- | :--- |
+| **Program Length** | 30 sessions |
+| **Session Duration** | 75 minutes |
+| **Instructional Design** | Cohort-based psychoeducation with structured facilitator guidance |
+| **Training Emphasis** | Pattern recognition, system interruption, executive stabilization, and behavior-change skill installation |
+| **Primary Use Cases** | Reentry support, veteran-serving programs, recovery support programs, housing stabilization initiatives, and community supervision support environments |
+| **Participant Experience** | Classroom-style learning model with controlled pacing and no requirement for personal disclosure |
 
 ---
 
-## CONTRACTING INFORMATION
+## Differentiators
+
+Capitol Contracts LLC distinguishes WRH from conventional discussion-based group programming by using a **systems language model** that translates complex behavioral survival responses into understandable, repeatable, and trainable concepts. The curriculum emphasizes how **the system**, **the mechanism**, and **the driver** operate under pressure, which allows facilitators to teach high-impact material without relying on unstructured disclosure or clinician-dependent improvisation.
+
+The WRH Pilot Deployment is also differentiated by its operational design. The materials are organized for facilitator execution, continuity across sessions, and adaptation to institutional settings where staff turnover, uneven participant attendance, and mixed-acuity groups are common. This makes the program suitable for agencies that need a disciplined training package rather than an informal support model.
+
+---
+
+## Operational Value for Government and Community Partners
+
+| Operational Need | WRH Response |
+| :--- | :--- |
+| **Reduce avoidant noncompliance patterns** | Teaches participants how shutdown, freeze, and pattern loops interfere with attendance, deadlines, and procedural follow-through. |
+| **Increase participant retention** | Uses a structured, high-engagement format designed to reduce overload and maintain continuity across the full training arc. |
+| **Support workforce and reentry readiness** | Reinforces self-observation, interruption skills, and practical regulation methods tied to daily functioning. |
+| **Enable repeatable program delivery** | Provides standardized materials that can be used across cohorts and sites with consistent sequencing. |
+| **Protect participant safety in group settings** | Incorporates controlled pacing, facilitator boundaries, and non-exposure design principles that reduce pressure for personal disclosure. |
+
+---
+
+## Applicable Codes and Readiness
+
+| Category | Information |
+| :--- | :--- |
+| **NAICS** | 624190, 624120, 624221, 923120 |
+| **Entity Status** | Capitol Contracts LLC |
+| **SAM.gov Status** | Active |
+| **Program Status** | Pilot deployment package available |
+
+---
+
+## Engagement Scope
+
+Capitol Contracts LLC is prepared to support pilot deployments, facilitator orientation, curriculum implementation planning, and operational adaptation for agencies seeking a structured training portal and documented delivery package. Engagements may include facilitator preparation, curriculum rollout support, deployment customization, and administrative coordination for pilot execution.
+
+---
+
+## Contact and Contracting
 
 **Program Developer:** Kali Reaper (Daniel Lingar)  
-**Entity:** Capitol Contracts LLC  
-**NAICS Codes:** 624190, 624120, 624221, 923120  
-**SAM.gov:** Active  
-**Program Status:** Deployment-Ready | Pilot Cohort Available  
+**Organization:** Capitol Contracts LLC  
+**Engagement Type:** Pilot deployment, curriculum implementation, and facilitator training support
 
-*For contracting inquiries, MOUs, or pilot scheduling, contact the program office.*
+For capability reviews, pilot coordination, or program deployment discussions, Capitol Contracts LLC may provide additional implementation materials upon request.
 
 ---
-*WRH Pilot Program | Capitol Contracts LLC | Federal Contracting Standard | April 2026*
+
+*Capitol Contracts LLC | WRH Pilot Deployment | Federal Capability Statement | April 2026*

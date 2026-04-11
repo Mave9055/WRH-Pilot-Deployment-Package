@@ -54,7 +54,7 @@ The body’s final escape hatch when even freeze isn’t enough.
 You’re free. Yellow or red anytime.
 See you next session — because now you know why freeze is the only move the machine ever
 makes… and you’re not going to want to miss what happens when even that stops working.”
-SESSION 15 — DISSOCIATION
+### SESSION 15 — DISSOCIATION
 Psychoeducational Pattern Recognition & Regulation Training
 Goal: Reveal the final escape hatch — the “I’m here but not here” state where the body stays in
 the room but the mind completely checks out.
@@ -150,7 +150,7 @@ You’re free. Yellow or red anytime.
 See you next session — because now you know what happens when even freeze isn’t
 enough… and you’re not going to want to miss how the past keeps hijacking the present.”
 
-SESSION 16 — TIME COLLAPSE
+### SESSION 16 — TIME COLLAPSE
 Psychoeducational Pattern Recognition & Regulation Training
 Goal: Reveal how the past bleeds straight into the present — why “now” suddenly feels exactly
 like “then” and the nervous system treats a quiet Tuesday like the Glass Box or the blanket night
@@ -257,21 +257,21 @@ ever had.”
 **Arc 3 — The Interrupt | 75 minutes**
 
 **Cold Open / Goal:**  
-Why asking for help feels like surrender — and why the system trained you to white-knuckle everything alone.
+Why requesting backup feels like surrender — and why the system trained you to run every load-bearing task alone.
 
 **Core Concept + Case Study:**  
-Daniel finally completes his GED at 38. Instead of celebrating, he goes silent. He doesn't tell anyone for six weeks. The Permission Paradox: the nervous system was never granted permission to succeed. Winning feels like a setup.
+Daniel finally completes his GED at 38. Instead of broadcasting the win, he goes dark. He doesn't tell anyone for six weeks. The Permission Paradox: the system was never coded to tolerate success. A win looks less like a reward and more like a trap door.
 
 **Mirror Moment:**  
 *"This is the part where most people realize… this isn't just the Architect's story."*  
 *(pause)*  
-Think about the last accomplishment you downplayed or hid. What would have happened if you let yourself feel proud of it?
+Think about the last accomplishment you downplayed or hid. What would have happened if you had logged it as a clean win instead of burying the evidence?
 
 **Rapid Reframes:**  
 - Self-sabotage → permission circuit offline
 - Downplaying wins → bracing for the takeaway
-- Isolation → the only safe celebration I know
-- Stoic → afraid to need anything
+- Isolation → the only victory protocol I trust
+- Stoic → dependency alarms trip too fast
 
 **Micro-Regulation Insert:**  
 *"Quick check — feet on the floor. One slow breath out. We'll wait."*
@@ -287,7 +287,7 @@ Next session: why the body won't let you rest even when the threat is gone.
 **Arc 3 — The Interrupt | 75 minutes**
 
 **Cold Open / Goal:**  
-The illusion of control as a regulation strategy — and what happens when it fails.
+The illusion of control as a load-management strategy — and what happens when it fails.
 
 **Core Concept + Case Study:**  
 Daniel color-codes his calendar. Keeps his workspace immaculate. Controls his coffee order to the exact gram. From the outside: discipline. From the inside: the only thing standing between him and freefall is rigid structure. When the structure breaks — even slightly — the system interprets it as catastrophe.
@@ -298,7 +298,7 @@ Daniel color-codes his calendar. Keeps his workspace immaculate. Controls his co
 What is the one thing in your environment you control obsessively — not because it matters, but because it feels like if that falls apart, everything falls apart?
 
 **Rapid Reframes:**  
-- Control freak → regulation through environment
+- Control freak → load management through environment
 - Rigid → the only stability I was ever given
 - Perfectionism → terror of the next unpredictable thing
 - Inflexible → learned that flexibility got me hurt
@@ -317,21 +317,21 @@ Next session: what the body is actually storing — and why talking doesn't alwa
 **Arc 3 — The Interrupt | 75 minutes**
 
 **Cold Open / Goal:**  
-The body keeps the score — and the ledger is always open.
+The chassis keeps the record — and the ledger never closes.
 
 **Core Concept + Case Study:**  
-Daniel's shoulders live near his ears. His jaw never fully unclenches. In 2019 he has a full cardiac workup — heart is fine. The body is storing forty years of code in tissue. No amount of thinking will update a somatic record. The nervous system doesn't speak English.
+Daniel's shoulders live near his ears. His jaw never fully unclenches. In 2019 he has a full cardiac workup — heart is fine. The body is storing forty years of code in tissue. No amount of thinking will rewrite a somatic record. The system does not respond to speeches; it responds to repeated signals.
 
 **Mirror Moment:**  
 *"This is the part where most people realize… this isn't just the Architect's story."*  
 *(pause)*  
-Where in your body do you feel stress before your brain names it? Chest? Jaw? Shoulders? That location is data — not weakness.
+Where does the load register first — chest, jaw, shoulders? That location is system data, not weakness.
 
 **Rapid Reframes:**  
 - Tension → stored threat response
 - Chronic pain → forty years of activation with nowhere to go
 - Can't relax → the body still waiting for the next alarm
-- Disconnected from body → the only safe place was my head
+- Disconnected from body → the head became the only command post I trusted
 
 **Micro-Regulation Insert:**  
 *"Quick check — feet on the floor. One slow breath out. We'll wait."*
@@ -347,7 +347,7 @@ Next session: identity — who you became to survive, and who you actually are.
 **Arc 3 — The Interrupt | 75 minutes**
 
 **Cold Open / Goal:**  
-The difference between who you built to survive and who you actually are.
+The difference between the survival shell you assembled and the actual driver underneath it.
 
 **Core Concept + Case Study:**  
 Daniel plays four different versions of himself depending on the room: the competent professional, the invisible man, the class clown, the stone wall. He is so good at all four that he no longer knows which one is real. The Constructed Self is not a lie — it's armor. But armor can't be worn to bed.
@@ -359,8 +359,8 @@ Which version of yourself do you put on most automatically — and when was the 
 
 **Rapid Reframes:**  
 - Inconsistent → running four survival programs at once
-- Fake → the only way to stay safe in any given room
-- Hard to know → because nobody safe ever asked
+- Fake → the only way to keep the shields up in any given room
+- Hard to know → because nobody ever slowed down long enough to read the pattern
 - Multiple faces → adaptive code, not deception
 
 **Micro-Regulation Insert:**  
@@ -377,7 +377,7 @@ Next session: why the old patterns survive even when the threat is gone.
 **Arc 3 — The Interrupt | 75 minutes**
 
 **Cold Open / Goal:**  
-How old threat responses fire in safe environments — the invisible trigger mechanism.
+How old threat responses fire in low-threat environments — the invisible trigger mechanism.
 
 **Core Concept + Case Study:**  
 Daniel is in a job interview. The hiring manager crosses his arms. Daniel's entire system interprets it as the posture his father used before violence. He doesn't know why he's suddenly underwater. The interview tanks. He blames himself for being 'bad under pressure.' He's not bad under pressure — a ghost fired.
@@ -390,7 +390,7 @@ Think about a reaction you had recently that felt bigger than the situation warr
 **Rapid Reframes:**  
 - Overreaction → ghost protocol activated
 - Can't explain it → because it happened before language
-- Triggered → nervous system matched old pattern to new data
+- Triggered → the system matched old pattern to new data
 - Paranoid → hypervigilance doing its job in the wrong decade
 
 **Micro-Regulation Insert:**  
@@ -407,18 +407,18 @@ Next session: the difference between a trigger and a threat — and how to tell 
 **Arc 3 — The Interrupt | 75 minutes**
 
 **Cold Open / Goal:**  
-Real danger vs. pattern recognition — how to tell the difference in real time.
+Real danger vs. recycled pattern recognition — how to tell the difference in real time.
 
 **Core Concept + Case Study:**  
-Daniel learns to ask one question when the activation hits: 'Am I actually in danger right now, or does this feel like danger?' The distinction changes everything. A trigger is pattern recognition running on old data. A threat is real-time danger. The nervous system can't tell the difference — but the prefrontal cortex can, once it comes back online.
+Daniel learns to ask one question when the activation hits: 'Am I actually in danger right now, or does this just match old danger?' The distinction changes everything. A trigger is pattern recognition running on archived data. A threat is real-time danger. The system cannot sort the difference fast enough — but the driver can once the cortex comes back online.
 
 **Mirror Moment:**  
 *"This is the part where most people realize… this isn't just the Architect's story."*  
 *(pause)*  
-Think of your most common trigger. What does your body feel first — before the thought? That physical signal is the earliest warning you have.
+Think of your most common trigger. What does the chassis register first — before the thought? That physical signal is your earliest warning light.
 
 **Rapid Reframes:**  
-- Anxious → nervous system running a safety check
+- Anxious → the system is running a threat scan
 - Paranoid → the scan is looking for old patterns
 - Overreacting → the body recognized something the brain hasn't named yet
 - Can't calm down → the threat assessment isn't done yet
@@ -437,10 +437,10 @@ Next session: what happens when the Pattern Veto kicks in — and how to install
 **Arc 3 — The Interrupt | 75 minutes**
 
 **Cold Open / Goal:**  
-The skill of catching the pattern before the behavior — the interrupt install.
+The skill of catching the pattern before the behavior completes — the interrupt install.
 
 **Core Concept + Case Study:**  
-Daniel is in the parking lot. He has an envelope. His old pattern: leave it in the car for three weeks. He knows this. Today — for the first time — he sits with the activation for ninety seconds without running. That's the Pattern Veto: not willpower, not discipline. Catching the gap between impulse and action. The gap is where freedom lives.
+Daniel is in the parking lot. He has an envelope. His old pattern: leave it in the car for three weeks. He knows the script. Today, for the first time, he holds position for ninety seconds without aborting the task. That's the Pattern Veto: not willpower, not discipline. It is catching the gap between impulse and action before the old code completes.
 
 **Mirror Moment:**  
 *"This is the part where most people realize… this isn't just the Architect's story."*  
@@ -458,36 +458,36 @@ Think about your most automatic avoidance behavior. What would happen if you jus
 
 **Open Loop + Cliffhanger:**  
 Between now and next session — find one moment to wait ninety seconds before the automatic behavior completes.  
-Next session: what safe relationship actually feels like when your system was never taught.
+Next session: what a stable human connection looks like when your system was trained to expect ambush.
 
 
 ---
 
-### S24 — THE SAFE RELATIONSHIP BLUEPRINT
+### S24 — THE STABLE CONTACT BLUEPRINT
 **Arc 3 — The Interrupt | 75 minutes**
 
 **Cold Open / Goal:**  
-What safety in relationship feels like when your system was trained in chaos.
+What stable human contact looks like when your system was trained in chaos.
 
 **Core Concept + Case Study:**  
-Daniel sits across from his case manager. She doesn't raise her voice. She doesn't disappear when things get hard. She shows up on Tuesday at 2pm every week. For six months, Daniel waits for the catch. There is no catch. His nervous system doesn't know what to do with that. Safe relationship feels like a trick when chaos was home.
+Daniel sits across from his case manager. She doesn't raise her voice. She doesn't disappear when things get hard. She shows up on Tuesday at 2 p.m. every week. For six months, Daniel waits for the catch. There is no catch. His system does not know how to classify a person whose signal stays stable. Stable contact looks like a trick when chaos was the training ground.
 
 **Mirror Moment:**  
 *"This is the part where most people realize… this isn't just the Architect's story."*  
 *(pause)*  
-Think about one person who has been consistently safe for you — even if it's just one. What made them feel different? What made you trust them?
+Think about one person whose signal has stayed consistent for you — even if it is only one. What made them register as different? What made the system lower its guard?
 
 **Rapid Reframes:**  
 - Can't trust → trained in an environment where trust was punished
 - Pushes people away → protective maneuver, not preference
-- Doesn't attach → attachment was dangerous where I came from
-- Sabotages relationships → the brain testing whether this one will also leave
+- Doesn't attach → closeness used to read like exposure
+- Sabotages relationships → the system is stress-testing whether this one will also leave
 
 **Micro-Regulation Insert:**  
 *"Quick check — feet on the floor. One slow breath out. We'll wait."*
 
 **Open Loop + Cliffhanger:**  
-Between now and next session — notice one moment this week when someone was safe — and let yourself register it for three seconds.  
+Between now and next session, notice one moment this week when someone's signal stayed steady — and let the system log it for three seconds.  
 Next session: why finding your voice is the scariest thing in the room.
 
 
@@ -500,18 +500,18 @@ Next session: why finding your voice is the scariest thing in the room.
 Learning to speak when silence was the survival strategy.
 
 **Core Concept + Case Study:**  
-Daniel writes his story at 40. He has never described what happened to him in full sentences to another human being. The first time he reads a paragraph aloud to his therapist, his hands shake. Not from shame — from the biological reality that speaking the truth activates the same nervous system that learned silence kept him alive. The Voice Rebuild is not about courage. It's about teaching the nervous system that speech is safe.
+Daniel writes his story at 40. He has never described what happened to him in full sentences to another human being. The first time he reads a paragraph aloud to another person in the room, his hands shake. Not from weakness — from the biological reality that speaking the truth activates the same system that learned silence kept him alive. The Voice Rebuild is not about courage. It is about teaching the system that speech does not automatically trigger retaliation.
 
 **Mirror Moment:**  
 *"This is the part where most people realize… this isn't just the Architect's story."*  
 *(pause)*  
-Think about something true about your experience that you have never said out loud to another person. You don't have to say it here. Just acknowledge it exists.
+Think about one true line from your own file that you have never said out loud to another person. You do not have to say it here. Just acknowledge that the line exists.
 
 **Rapid Reframes:**  
-- Quiet → safety strategy
+- Quiet → silence protocol
 - Won't talk about it → the last time I did, it was used against me
-- Emotionally unavailable → never had a safe container for the emotion
-- Shuts down → the nervous system choosing the known over the unknown
+- Hard to read → the signal stayed locked behind armor
+- Shuts down → the system choosing the known over the unknown
 
 **Micro-Regulation Insert:**  
 *"Quick check — feet on the floor. One slow breath out. We'll wait."*
@@ -527,10 +527,10 @@ Next session: how to hold yourself accountable without destroying yourself.
 **Arc 3 — The Interrupt | 75 minutes**
 
 **Cold Open / Goal:**  
-The difference between responsibility and punishment — and why the nervous system confuses them.
+The difference between responsibility and punishment — and why the system keeps confusing them.
 
 **Core Concept + Case Study:**  
-Daniel makes a mistake at work. His old pattern: hours of internal demolition — 'I'm a failure, I always do this, I'm unfixable.' The self-attack is not accountability — it's the nervous system running the same script it learned when punishment followed every mistake without distinction. Real accountability is: name it, own it, correct it, move. The demolition job is optional.
+Daniel makes a mistake at work. His old pattern: hours of internal demolition — 'I'm a failure, I always do this, I'm unfixable.' The self-attack is not accountability. It is the system replaying the punishment script it learned when every mistake brought impact. Real accountability is simple: name it, own it, correct it, move. The demolition job is extra.
 
 **Mirror Moment:**  
 *"This is the part where most people realize… this isn't just the Architect's story."*  
@@ -539,8 +539,8 @@ Think about the last mistake you made. How long did you punish yourself after ac
 
 **Rapid Reframes:**  
 - Self-critical → running an old punishment script
-- Can't forgive myself → no one modeled what forgiveness looked like
-- Shame spiral → accountability hijacked by the nervous system
+- Can't let it go → the punishment cycle never had an off switch
+- Self-destruction spiral → accountability hijacked by the system
 - Hard on myself → I learned that softness was weakness
 
 **Micro-Regulation Insert:**  
@@ -548,7 +548,7 @@ Think about the last mistake you made. How long did you punish yourself after ac
 
 **Open Loop + Cliffhanger:**  
 Between now and next session — when you make a mistake this week, try: 'I did that. Here's the correction.' Then stop.  
-Next session: the architecture of a sustainable life — not the one trauma built for you.
+Next session: the architecture of a sustainable life — not the one chaos welded around you.
 
 
 ---
@@ -557,10 +557,10 @@ Next session: the architecture of a sustainable life — not the one trauma buil
 **Arc 3 — The Interrupt | 75 minutes**
 
 **Cold Open / Goal:**  
-Building the life structure that supports regulation — not the one chaos installed.
+Building the life structure that supports load control — not the one chaos installed.
 
 **Core Concept + Case Study:**  
-Daniel designs his first real weekly schedule at 41. Not a to-do list — a container. Sleep at the same time. One meal he cooks himself. One hour outside. Wednesday call with his daughter. The structure isn't a cage — it's a nervous system scaffold. Chaos doesn't need a reason to return. The container makes it slightly harder for it to walk back in.
+Daniel designs his first real weekly schedule at 41. Not a to-do list — a container. Sleep at the same time. One meal he cooks himself. One hour outside. Wednesday call with his daughter. The structure is not a cage; it is a scaffold for the system. Chaos does not need permission to return. The container just makes it harder for the old pattern to walk back in.
 
 **Mirror Moment:**  
 *"This is the part where most people realize… this isn't just the Architect's story."*  
@@ -590,7 +590,7 @@ Next session: the people who come after you — what you're building for them wh
 What you are passing forward — and how to be intentional about it.
 
 **Core Concept + Case Study:**  
-Daniel's daughter is 14. She has never seen him drunk. She has heard him say 'I don't know' and 'I was wrong.' She watches him leave a difficult room instead of escalating. She doesn't know she's learning nervous system regulation from her father. She just knows he stays. The legacy is written in the small moments — not the grand gestures.
+Daniel's daughter is 14. She has never seen him drunk. She has heard him say 'I don't know' and 'I was wrong.' She watches him leave a difficult room instead of escalating. She doesn't know she's watching stable system control from her father. She just knows he stays. The legacy is written in the small moments — not the grand gestures.
 
 **Mirror Moment:**  
 *"This is the part where most people realize… this isn't just the Architect's story."*  
@@ -599,7 +599,7 @@ Think about one person who is watching how you handle difficulty — a child, a 
 
 **Rapid Reframes:**  
 - Can't break the cycle → the cycle breaks one behavior at a time
-- It's too late → the research says the nervous system is plastic — it changes
+- It's too late → the system can still be rewired through repetition
 - My kids already saw too much → they're also watching what you do next
 - No legacy to leave → every interaction writes the code for someone watching
 
@@ -620,12 +620,12 @@ Next session: the system didn't break you — and the proof is that you're still
 Survival as evidence — reframing the fact that you made it.
 
 **Core Concept + Case Study:**  
-Daniel is asked at 42 what he's proud of. He lists his certifications, his sobriety date, his job. His facilitator stops him. 'Before all of that — you survived. That's not nothing. That's actually the whole thing.' The nervous system that was built for war kept him alive long enough to learn there's another way. Being still here is not a small thing. It is the only prerequisite for everything that comes next.
+Daniel is asked at 42 what he's proud of. He lists his certifications, his sobriety date, his job. The facilitator stops him. 'Before all of that — you survived. That's not nothing. That's the whole record.' The system that was built for war kept him alive long enough to learn another operating model. Being still here is not a small thing. It is the prerequisite for everything that comes next.
 
 **Mirror Moment:**  
 *"This is the part where most people realize… this isn't just the Architect's story."*  
 *(pause)*  
-What does it mean that you're in this room, in this moment, still here? Not despite everything — because of everything your system did to get you through.
+What does it mean that you are in this room, in this moment, still here? Not despite everything — because the system did exactly what it was built to do under impossible load.
 
 **Rapid Reframes:**  
 - Weak → I made it through things that would have ended most people
@@ -650,7 +650,7 @@ Next session: the final session — the manifesto you take out of this room.
 What you know now that you didn't know in Session 00 — and what you do with it.
 
 **Core Concept + Case Study:**  
-Daniel reads a single paragraph he wrote in Session 25 — the one sentence that was true that he'd never said aloud. He reads it to the room. Not as confession. As record. As evidence that the voice, once it finds its frequency, doesn't go quiet again. The Manifesto is not a promise to be perfect. It is a record of what you now understand about the machine — and a commitment to drive it instead of being driven.
+Daniel reads a single paragraph he wrote in Session 25 — the one sentence that was true that he'd never said aloud. He reads it to the room. Not as confession. As record. As evidence that the voice, once it finds its frequency, doesn't go quiet again. The Manifesto is not a promise to be perfect. It is a field record of what you now understand about the machine — and a commitment to drive it instead of being driven.
 
 **Mirror Moment:**  
 *"This is the part where most people realize… this isn't just the Architect's story."*  
@@ -660,8 +660,8 @@ What is one thing you understand now — about yourself, about the mechanism, ab
 **Rapid Reframes:**  
 - Broken → adapted
 - Defiant → my system was protecting me
-- Hopeless → still here and wired differently than I thought
-- Too far gone → the nervous system is plastic — it changed in this room
+- Hopeless → still here, and the wiring is more changeable than I thought
+- Too far gone → the system can still update when repetition is strong enough
 
 **Micro-Regulation Insert:**  
 *"Quick check — feet on the floor. One slow breath out. We'll wait."*

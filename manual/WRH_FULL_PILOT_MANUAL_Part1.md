@@ -92,7 +92,7 @@ Distribute Plan B handout and Confidentiality Agreement. Walk through Yellow/Red
 
 ---
 
-SESSION 01 — THE MECHANISM
+### SESSION 01 — THE MECHANISM
 Psychoeducational Pattern Recognition & Regulation Training
 Goal: Show the pattern (high-functioning mask → Hum → Freeze → executive dysfunction →
 FTA loop) so participants silently recognize it without ever being asked to share.
@@ -183,7 +183,7 @@ asked for them.
 ● Ends on a curiosity cliffhanger for Session 02 (The Blueprint).
 
 This script is now locked, VA-tone perfect, and ready to rehearse.
-SESSION 02 — THE BLUEPRINT
+### SESSION 02 — THE BLUEPRINT
 Psychoeducational Pattern Recognition & Regulation Training
 Goal: Reveal the wiring started before memory.
 Total time: 75 minutes (expanded for real delivery)
@@ -291,7 +291,7 @@ Next session we’ll look at what happened when that Glass Box wiring met the re
 first pattern lock at age six. How the freeze response got reinforced outside the incubator.
 You’re free to go. Yellow or red at any time — even after you walk out the door. I’ll see you next
 session.”
-SESSION 03 — THE FIRST PATTERN LOCK
+### SESSION 03 — THE FIRST PATTERN LOCK
 Psychoeducational Pattern Recognition & Regulation Training
 Goal: Lock in how the Glass Box wiring became permanent at age six — freeze goes from
 survival tactic to default operating system.
@@ -384,7 +384,7 @@ And everything starts to crack wide open.
 You’re free. Yellow or red anytime.
 See you next session — because you’re going to want to know how this pattern survives (and
 fails) when it leaves the house.”
-SESSION 04 — THE HUM
+### SESSION 04 — THE HUM
 Psychoeducational Pattern Recognition & Regulation Training
 Goal: Make the constant internal activation feel real — show how the Hum became the 24/7
 background noise that never shuts off.
@@ -475,7 +475,7 @@ The moment everything the Architect built starts to fall apart.
 You’re free. Yellow or red anytime.
 See you next session — because you already know what’s coming, and you’re not going to
 want to miss how the pattern finally cracks.”
-SESSION 05 — THE MASK
+### SESSION 05 — THE MASK
 Psychoeducational Pattern Recognition & Regulation Training
 Goal: Reveal how the Architect’s high-functioning mask hides the dysfunction — chaos is
 comfort, calm is the real threat.
@@ -560,7 +560,7 @@ And the crash begins.
 You’re free. Yellow or red anytime.
 See you next session — because you already know what the crash looks like… and you’re not
 going to want to miss how the pattern finally breaks wide open.”
-SESSION 06 — THE CRASH
+### SESSION 06 — THE CRASH
 Psychoeducational Pattern Recognition & Regulation Training
 Goal: Show what happens the exact moment the mask comes off — the nervous system drops
 and the crash hits like a freight train.
@@ -645,7 +645,7 @@ The way the crash turns into total withdrawal… and why it ruins everything on 
 You’re free. Yellow or red anytime.
 See you next session — because you already know this crash. And you’re not going to want to
 miss how the pattern turns the crash into the disappearing act.”
-SESSION 07 — THE DISAPPEARING ACT
+### SESSION 07 — THE DISAPPEARING ACT
 Psychoeducational Pattern Recognition & Regulation Training
 Goal: Reveal how the crash turns into total withdrawal — the disappearing act as the nervous
 system’s final protection mode.

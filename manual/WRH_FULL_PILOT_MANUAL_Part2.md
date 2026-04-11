@@ -71,7 +71,7 @@ the consequences.
 You’re free. Yellow or red anytime.
 See you next session — because this is where the pattern stops being invisible and starts
 costing real things. And you’re not going to want to miss how it all connects.”
-SESSION 08 — THE MISS (FTAs & Responsibility Failure)
+### SESSION 08 — THE MISS (FTAs & Responsibility Failure)
 Psychoeducational Pattern Recognition & Regulation Training
 Goal: Show how the disappearing act turns into visible failure — missed court dates, probation
 violations, the exact moment the system physically cannot act.
@@ -166,7 +166,7 @@ The pattern that keeps running the show even when he knows better.
 You’re free. Yellow or red anytime.
 See you next session — because this is where we finally see the whole machine in motion…
 and you’re not going to want to miss how it all closes in on itself.”
-SESSION 09 — THE LOOP
+### SESSION 09 — THE LOOP
 Psychoeducational Pattern Recognition & Regulation Training
 Goal: Map the full repeating cycle — show how the pattern becomes a self-fulfilling machine
 that runs the show even when the Architect knows better.
@@ -255,7 +255,7 @@ Just the raw recognition.
 You’re free. Yellow or red anytime.
 See you next session — because this is where the loop finally meets the mirror… and
 everything changes.”
-SESSION 10 — THE MIRROR
+### SESSION 10 — THE MIRROR
 Psychoeducational Pattern Recognition & Regulation Training
 Goal: The turning point. Participants see the entire pattern in themselves — not as the
 Architect’s story, but as their own machine running the same code.
@@ -341,7 +341,7 @@ The real question is: “If you can see it… can you stop it?”
 You’re free. Yellow or red anytime.
 See you next session — because you just looked in the mirror… and you’re not going to want to
 look away now.”
-SESSION 11 — THE BODY KEEPS SCORE
+### SESSION 11 — THE BODY KEEPS SCORE
 Psychoeducational Pattern Recognition & Regulation Training
 Goal: Reveal that the nervous system has its own memory — the body is still living in the Glass
 Box and under the blanket even when the mind says the danger is over.
@@ -437,7 +437,7 @@ And why the body doesn’t need an actual threat — it just needs the memory of
 You’re free. Yellow or red anytime.
 See you next session — because now you know the body is keeping score… and you’re not
 going to want to miss how we start rewriting the ledger.”
-SESSION 12 — TRIGGER VS ACTIVATION
+### SESSION 12 — TRIGGER VS ACTIVATION
 Psychoeducational Pattern Recognition & Regulation Training
 Goal: Show the critical difference between an outside event (trigger) and the body’s automatic
 nervous-system response (activation) — why something tiny can flip the entire system in half a
@@ -529,7 +529,7 @@ quietly, layer by layer, until the system overloads and the whole loop restarts 
 You’re free. Yellow or red anytime.
 See you next session — because now you know the difference between the match and the
 fire… and you’re not going to want to miss what happens when the pressure keeps stacking.”
-SESSION 13 — THE THRESHOLD
+### SESSION 13 — THE THRESHOLD
 Psychoeducational Pattern Recognition & Regulation Training
 Goal: Reveal that the crash doesn’t come from one big event — it comes from quiet, invisible
 stress accumulation that finally crosses the line.
@@ -631,7 +631,7 @@ And what that default actually looks like in everyday life.
 You’re free. Yellow or red anytime.
 See you next session — because now you know the pressure was building the whole time…
 and you’re not going to want to miss why freeze is the only move the machine ever learned.”
-SESSION 14 — FIGHT, FLIGHT, FREEZE (Real World Version)
+### SESSION 14 — FIGHT, FLIGHT, FREEZE (Real World Version)
 Psychoeducational Pattern Recognition & Regulation Training
 
 Goal: Show how the three survival responses actually play out in daily life — and why the
