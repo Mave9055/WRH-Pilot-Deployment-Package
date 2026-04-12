@@ -1,16 +1,10 @@
-# WRH-Pilot-Deployment-Package — Version 4.0 "Technical Standard"
+# Capitol Contracts LLC — What Really Happened (WRH) Trauma Psychoeducation Program | Official 30-Session Pilot Deployment Package v4.0
 
-## Official 30-Session Pilot Deployment for Capitol Contracts LLC
+Capitol Contracts LLC presents the **What Really Happened (WRH) Trauma Psychoeducation Program**, an official 30-session pilot deployment package designed for federal contracting and institutional implementation. This repository serves as the consolidated, definitive source for the WRH program, integrating comprehensive facilitator materials with a modern web portal for digital delivery.
 
-**Program:** What Really Happened (WRH) — Trauma Psychoeducation and Executive Function Restoration  
-**Version:** 4.0 | April 2026  
-**Status:** Deployment-Ready | **Technical Standard Release**
+## Program Overview
 
----
-
-## Repository Overview
-
-This repository contains the **Version 4.0 "Technical Standard"** deployment materials for the **What Really Happened (WRH)** pilot program, developed for **Capitol Contracts LLC**. The package has been fully refactored into the **Tactical Cockpit** layout to ensure disciplined, high-velocity delivery in institutional and federal-grade environments. 
+The WRH program is a psychoeducational curriculum focused on understanding the mechanisms of complex trauma and nervous system dysregulation. It provides concrete tools for pattern interruption and executive function restoration without requiring trauma disclosure or traditional therapy modalities. The program is specifically tailored for high-risk populations, including veterans, justice-involved adults, recovery populations, and transitional-support participants.
 
 ### Key Upgrades in Version 4.0:
 - **Tactical Cockpit Layout:** Every session is structured for rapid facilitator navigation with [Facilitator Action] and [Script/Cue] tables.
@@ -19,20 +13,36 @@ This repository contains the **Version 4.0 "Technical Standard"** deployment mat
 - **Glossary Linking:** Consistent use of `Code Text` for key program terms (e.g., `The Hum`, `The Pattern Veto`).
 - **Executive Function Arc:** Completion of Sessions S25–S30 focusing on `Executive Function Restoration` and `Rewriting the Code`.
 
----
+## How to Deploy
 
-## Repository Structure
+This repository supports two primary deployment methods:
 
-| Path | Description |
-| :--- | :--- |
-| `manual/WRH_FULL_PILOT_MANUAL_SessionXX_Refactored.md` | Individual session files in **Tactical Cockpit** layout (S00–S30) |
-| `SUMMARY.md` | **Master Table of Contents** for rapid facilitator navigation across all 30 sessions |
-| `checklists/Facilitator_Readiness_Checklist.md` | Operational readiness checklist for session delivery |
-| `manual/WRH_Glossary.md` | Program glossary for recurring terms and concepts |
-| `assets/Plan_B_Wallet_Card.md` | Participant reference and regulation support tool |
-| `legal/Capability_Statement.md` | Federal-facing capability statement for Capitol Contracts LLC |
+### 1. Facilitator-Led Sessions
 
----
+The `manual/` directory contains the complete 30-session facilitator manuals (Version 4.0), designed for in-person, cohort-based delivery. Each session is structured for 75-minute facilitator-led engagement, utilizing a "Kali Reaper Tone" (analytical, high-velocity systems language). Key operational materials such as the Facilitator Readiness Checklist, Plan B Wallet Card, and a comprehensive Glossary are available in the `checklists/`, `assets/`, and `manual/` directories respectively.
+
+### 2. Digital Delivery via Web Portal
+
+The `portal/` directory houses a full-stack TypeScript application that serves as the digital delivery platform for the WRH program. This web portal provides an interactive interface for participants to access session content, resources, and other program materials. The portal is designed to load and serve the 30 session manuals as interactive web views, offering a modern and accessible experience.
+
+## Folder Structure Map
+
+```
+WRH-Pilot-Deployment-Package/
+├── README.md                     # This file
+├── SUMMARY.md                    # Master navigation and program overview
+├── assets/                       # General program assets (e.g., Plan B Wallet Card, VA Program Description)
+├── checklists/                   # Facilitator checklists (e.g., Facilitator Readiness Checklist, Risk Management Checklist)
+├── digital-assets/               # Consolidated images and PDFs from other repos
+├── legal/                        # Legal and business documents (e.g., Capability Statement, Confidentiality Agreement)
+├── manual/                       # Official 30-session facilitator manuals and Glossary
+└── portal/                       # Full-stack web application for digital content delivery
+    ├── client/                   # Frontend React application
+    ├── server/                   # Backend tRPC API and database logic
+    ├── shared/                   # Shared types and constants
+    ├── drizzle/                  # Drizzle ORM schema and migrations
+    └── ... (other portal configuration files)
+```
 
 ## Program Positioning
 
@@ -44,8 +54,6 @@ This repository contains the **Version 4.0 "Technical Standard"** deployment mat
 | **Instructional Style** | **Kali Reaper Tone:** Analytical, unsentimental, high-velocity systems language |
 | **Deployment Use** | Facilitator-led training environments requiring consistent delivery and clear participant safeguards |
 
----
-
 ## Key Documents
 
 | Document | Link |
@@ -56,6 +64,10 @@ This repository contains the **Version 4.0 "Technical Standard"** deployment mat
 | **Plan B Wallet Card** | [Open Asset](./assets/Plan_B_Wallet_Card.md) |
 | **Capability Statement** | [Open Capability Statement](./legal/Capability_Statement.md) |
 
----
+## License
 
-Capitol Contracts LLC maintains this package as a structured pilot deployment resource intended for professional facilitator use, operational review, and institutional onboarding.
+MIT License
+
+## GitHub Topics
+
+`capitol-contracts`, `sdvosb`, `trauma-psychoeducation`, `cptsd`, `wrh`, `veterans`, `executive-function`, `pilot-program`
