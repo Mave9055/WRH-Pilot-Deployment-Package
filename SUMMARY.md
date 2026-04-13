@@ -19,14 +19,14 @@ This summary is the single navigation point for the **What Really Happened (WRH)
 | **S00** | Welcome, Safety, and Why This Course Exists | [Tactical Cockpit](./manual/sessions/S00_INTRODUCTION.md) |
 | **S01** | The Mechanism | [Tactical Cockpit](./manual/sessions/S01_THE_MECHANISM.md) |
 | **S02** | The Blueprint | [Tactical Cockpit](./manual/sessions/S02_THE_BLUEPRINT.md) |
-| **S03** | The First Pattern Lock | [Tactical Cockpit](./manual/sessions/S03_The_First_Pattern_Lock.md) |
-| **S04** | The Hum | [Tactical Cockpit](./manual/sessions/S04_The_Hum.md) |
-| **S05** | The Mask | [Tactical Cockpit](./manual/sessions/S05_The_Mask.md) |
-| **S06** | The Crash | [Tactical Cockpit](./manual/sessions/S06_The_Crash.md) |
+| **S03** | The First Pattern Lock | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Part1.md#session-03--the-first-pattern-lock) |
+| **S04** | The Hum | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Part1.md#session-04--the-hum) |
+| **S05** | The Mask | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Part1.md#session-05--the-mask) |
+| **S06** | The Crash | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Part1.md#session-06--the-crash) |
 | **S07** | The Disappearing Act | [Tactical Cockpit](./manual/sessions/S07_THE_DISAPPEARING_ACT.md) |
 | **S08** | The Miss | [Tactical Cockpit](./manual/sessions/S08_THE_MISS.md) |
 | **S09** | The Loop | [Tactical Cockpit](./manual/sessions/S09_THE_LOOP.md) |
-| **S10** | The Mirror | [Tactical Cockpit](./manual/sessions/S10_The_Mirror.md) |
+| **S10** | The Mirror | [Tactical Cockpit](./manual/WRH_FULL_PILOT_MANUAL_Part2.md#session-10--the-mirror) |
 
 ---
 
