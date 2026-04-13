@@ -15,7 +15,7 @@ As a **Service-Disabled Veteran-Owned Small Business (SDVOSB)**, Capitol Contrac
 **Location:** Hartman, AR (Residential Recovery)  
 **Focus:** Spaced repetition, peer pod integration, and residential-specific safety protocols.
 
-[**View Pilot Site A Addendum v1.1**](./pilots/Stepping_Stones_Pilot_Addendum.md)
+[**View Pilot Site A Addendum v1.1**](./pilots/Stepping_Stones_Pilot_Addendum.md) | [**Download One-Click Pilot Proposal (PDF)**](./assets/One_Click_Pilot_Proposal.pdf)
 
 ---
 
@@ -25,7 +25,8 @@ As a **Service-Disabled Veteran-Owned Small Business (SDVOSB)**, Capitol Contrac
 | :--- | :--- | :--- |
 | **Navigation** | [**Master Summary**](./SUMMARY.md) | The single navigation point for all 30 sessions. |
 | **Facilitator** | [**Tactical Cockpit**](./manual/Facilitator_Tactical_Cockpit.md) | High-velocity dashboard for in-room delivery. |
-| **Participant** | [**Digital Plan B Card**](./participants/Digital_Plan_B_Card.md) | Mobile-friendly hyperarousal tool. |
+| **Facilitator** | [**Decompression Protocol**](./checklists/Facilitator_Decompression_Protocol.md) | Systems maintenance for high-intensity delivery. |
+| **Participant** | [**Mobile Plan B View**](./participants/Mobile_Plan_B_View.md) | High-contrast emergency view for participants. |
 | **Institutional** | [**Capability Statement**](./legal/Capability_Statement.md) | Professional one-pager for federal buyers. |
 | **Outcomes** | [**Pilot Outcomes**](./outcomes/Pilot_Outcomes_Proof_of_Concept.md) | Target KPIs and proof-of-concept tracking. |
 
@@ -34,6 +35,8 @@ As a **Service-Disabled Veteran-Owned Small Business (SDVOSB)**, Capitol Contrac
 ## **Core Program Diagrams**
 - [**The Hum & The Blanket**](./assets/diagrams/hum_blanket.png) — Baseline dysregulation map.
 - [**The Pattern Veto**](./assets/diagrams/pattern_veto.png) — 3-second interruption flowchart.
+- [**The Mask**](./assets/diagrams/the_mask.png) — High-performance in chaos map.
+- [**The Loop**](./assets/diagrams/the_loop.png) — Repeating cycle of failure map.
 - [**Executive Function Arc**](./assets/diagrams/ef_arc.png) — 30-session roadmap.
 
 ---
