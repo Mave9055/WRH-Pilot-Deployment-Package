@@ -1,5 +1,9 @@
 # WRH Pilot Deployment Package — Version 4.0 "Technical Standard"
 
+<p align="center">
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663251514784/peyAAcfVglzoCzKU.png" alt="Capitol Contracts LLC Logo" width="300">
+</p>
+
 ## **Program Overview**
 **What Really Happened (WRH)** is a 30-session psychoeducational curriculum designed to interrupt trauma-driven behavioral loops and restore executive function in high-risk adult populations. Built on a **non-exposure mechanism-first model**, WRH allows participants to understand their nervous system's survival code without being forced to recount personal trauma.
 
