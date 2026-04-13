@@ -18,6 +18,31 @@ We have officially locked in **Stepping Stones Recovery of Arkansas** (Hartman, 
 
 **Latest Update (April 2026):** The Pilot Addendum has been updated to **Version 1.1**, incorporating refined residential recovery integration, zero-cost framing for the 2026 launch, and enhanced retention boosters to address the "learn 20, forget 80" challenge. For detailed site-specific logistics, see the [Stepping Stones Pilot Addendum](./pilots/Stepping_Stones_Pilot_Addendum.md).
 
+## New Features & Enhancements
+
+### 1. Visual Diagrams & Roadmaps
+We have added rendered visual diagrams for core program concepts to improve clarity and retention:
+- **[The Hum & The Blanket Diagram](./assets/diagrams/hum_blanket.png)**: A visual map of baseline dysregulation.
+- **[The Pattern Veto Flowchart](./assets/diagrams/pattern_veto.png)**: A step-by-step visual for the interruption tool.
+- **[Executive Function Arc Roadmap](./assets/diagrams/ef_arc.png)**: A 3-arc visual journey from "The System" to "The Interrupt."
+
+### 2. Participant-Facing Tools
+Dedicated quick-access tools for participants to use in and out of the room:
+- **[Digital Plan B Card](./participants/Digital_Plan_B_Card.md)**: Mobile-friendly version of the wallet card for hyperarousal.
+- **[30-Day Booster Sign-up](./participants/Booster_Sign_up.md)**: Spaced repetition prompts to beat the "learn 20, forget 80" pattern.
+
+### 3. Institutional Proof-of-Concept
+A dedicated section for institutional partners to track pilot outcomes and metrics:
+- **[Pilot Outcomes & Proof-of-Concept](./outcomes/Pilot_Outcomes_Proof_of_Concept.md)**: Target KPIs, retention data, and qualitative feedback.
+
+### 4. Facilitator Tactical Cockpit
+A new dashboard view for facilitators to manage in-room delivery:
+- **[Facilitator Tactical Cockpit](./manual/Facilitator_Tactical_Cockpit.md)**: Quick-access session grid, fidelity checkpoints, and support numbers.
+
+### 5. Legal & Compliance Trust Signals
+Essential information for federal contracting and institutional partners:
+- **[Compliance & Trust Signals](./legal/Compliance_and_Trust_Signals.md)**: NAICS codes, UEI number, and non-clinical disclaimer.
+
 ## How to Deploy
 
 This repository supports two primary deployment methods:
@@ -36,38 +61,30 @@ The `portal/` directory houses a full-stack TypeScript application that serves a
 WRH-Pilot-Deployment-Package/
 ├── README.md                     # This file
 ├── SUMMARY.md                    # Master navigation and program overview
-├── assets/                       # General program assets (e.g., Plan B Wallet Card, VA Program Description)
+├── assets/                       # General program assets and diagrams
 ├── checklists/                   # Facilitator checklists and safety rules
 ├── digital-assets/               # Consolidated images and PDFs from other repos
-├── legal/                        # Legal and business documents (e.g., Capability Statement, Program Description)
-├── manual/                       # Official 30-session facilitator manuals and Glossary
+├── legal/                        # Legal, business, and compliance documents
+├── manual/                       # Official 30-session manuals and Tactical Cockpit
+├── outcomes/                     # Pilot outcomes and proof-of-concept data
+├── participants/                 # Participant-facing tools and sign-ups
 ├── pilots/                       # Site-specific pilot deployment plans (v1.1 updated)
 └── portal/                       # Full-stack web application for digital content delivery
-    ├── client/                   # Frontend React application
-    ├── server/                   # Backend tRPC API and database logic
-    ├── shared/                   # Shared types and constants
-    ├── drizzle/                  # Drizzle ORM schema and migrations
-    └── ... (other portal configuration files)
 ```
-
-## Program Positioning
-
-| Category | Description |
-| :--- | :--- |
-| **Delivery Model** | Cohort-based psychoeducational instruction |
-| **Session Length** | 75 minutes per session, including anchor, hook, mechanism, and mirror segments |
-| **Target Populations** | Veterans, justice-involved adults, recovery populations, and transitional-support participants |
-| **Instructional Style** | **Kali Reaper Tone:** Analytical, unsentimental, high-velocity systems language |
-| **Deployment Use** | Facilitator-led training environments requiring consistent delivery and clear participant safeguards |
 
 ## Key Documents
 
 | Document | Link |
 | :--- | :--- |
 | **Master Summary (All Sessions)** | [Open Summary](./SUMMARY.md) |
+| **Facilitator Tactical Cockpit** | [Open Cockpit](./manual/Facilitator_Tactical_Cockpit.md) |
 | **Stepping Stones Pilot Addendum (v1.1)** | [Open Addendum](./pilots/Stepping_Stones_Pilot_Addendum.md) |
+| **Pilot Outcomes & Proof-of-Concept** | [Open Outcomes](./outcomes/Pilot_Outcomes_Proof_of_Concept.md) |
+| **Compliance & Trust Signals** | [Open Compliance](./legal/Compliance_and_Trust_Signals.md) |
 | **WRH Program Description (Federal)** | [Open Description](./legal/WRH_Program_Description_Federal.md) |
 | **Safety & Participation Rules** | [Open Rules](./checklists/Safety_and_Participation_Rules.md) |
+| **Digital Plan B Card** | [Open Plan B](./participants/Digital_Plan_B_Card.md) |
+| **Booster Sign-up** | [Open Sign-up](./participants/Booster_Sign_up.md) |
 | **Facilitator Readiness Checklist** | [Open Checklist](./checklists/Facilitator_Readiness_Checklist.md) |
 | **WRH Glossary** | [Open Glossary](./manual/WRH_Glossary.md) |
 | **Plan B Wallet Card** | [Open Asset](./assets/Plan_B_Wallet_Card.md) |
