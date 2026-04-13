@@ -35,16 +35,16 @@ This summary is the single navigation point for the **What Really Happened (WRH)
 
 | Session | Title | Resource |
 | :--- | :--- | :--- |
-| **S11** | The Body Keeps Score | [Tactical Cockpit](./manual/sessions/S11_The_Body_Keeps_Score.md) |
-| **S12** | Trigger vs Activation | [Tactical Cockpit](./manual/sessions/S12_Trigger_vs_Activation.md) |
-| **S13** | The Threshold | [Tactical Cockpit](./manual/sessions/S13_The_Threshold.md) |
+| **S11** | The Body Keeps Score | [Tactical Cockpit](./manual/sessions/S11_THE_BODY_KEEPS_SCORE.md) |
+| **S12** | Trigger vs Activation | [Tactical Cockpit](./manual/sessions/S12_TRIGGER_VS_ACTIVATION.md) |
+| **S13** | The Threshold | [Tactical Cockpit](./manual/sessions/S13_THE_THRESHOLD.md) |
 | **S14** | Fight, Flight, Freeze (Real World Version) | [Tactical Cockpit](./manual/sessions/S14_Fight_Flight_Freeze.md) |
 | **S15** | Dissociation | [Tactical Cockpit](./manual/sessions/S15_Dissociation.md) |
 | **S16** | Time Collapse | [Tactical Cockpit](./manual/sessions/S16_Time_Collapse.md) |
-| **S17** | The Permission Paradox | [Tactical Cockpit](./manual/sessions/S17_The_Permission_Paradox.md) |
-| **S18** | The Control Circuit | [Tactical Cockpit](./manual/sessions/S18_The_Control_Circuit.md) |
-| **S19** | The Somatic Record | [Tactical Cockpit](./manual/sessions/S19_The_Somatic_Record.md) |
-| **S20** | The Constructed Self | [Tactical Cockpit](./manual/sessions/S20_The_Constructed_Self.md) |
+| **S17** | The Permission Paradox | [Tactical Cockpit](./manual/sessions/S17_THE_PERMISSION_PARADOX.md) |
+| **S18** | The Control Circuit | [Tactical Cockpit](./manual/sessions/S18_THE_CONTROL_CIRCUIT.md) |
+| **S19** | The Somatic Record | [Tactical Cockpit](./manual/sessions/S19_THE_SOMATIC_RECORD.md) |
+| **S20** | The Constructed Self | [Tactical Cockpit](./manual/sessions/S20_THE_CONSTRUCTED_SELF.md) |
 
 ---
 
@@ -53,16 +53,16 @@ This summary is the single navigation point for the **What Really Happened (WRH)
 
 | Session | Title | Resource |
 | :--- | :--- | :--- |
-| **S21** | The Ghost Protocol | [Tactical Cockpit](./manual/sessions/S21_The_Ghost_Protocol.md) |
-| **S22** | Trigger vs. Threat | [Tactical Cockpit](./manual/sessions/S22_Trigger_vs_Threat.md) |
-| **S23** | The Pattern Veto | [Tactical Cockpit](./manual/sessions/S23_The_Pattern_Veto.md) |
-| **S24** | The Stable Contact Blueprint | [Tactical Cockpit](./manual/sessions/S24_The_Stable_Contact_Blueprint.md) |
-| **S25** | The Voice Rebuild | [Tactical Cockpit](./manual/sessions/S25_The_Voice_Rebuild.md) |
-| **S26** | Accountability Without Self-Destruction | [Tactical Cockpit](./manual/sessions/S26_Accountability_Without_Self_Destruction.md) |
-| **S27** | The Executive Function Restore | [Tactical Cockpit](./manual/sessions/S27_The_Executive_Function_Restore.md) |
-| **S28** | The Code Rewrite | [Tactical Cockpit](./manual/sessions/S28_The_Code_Rewrite.md) |
-| **S29** | The System Optimization | [Tactical Cockpit](./manual/sessions/S29_The_System_Optimization.md) |
-| **S30** | The Integrated System | [Tactical Cockpit](./manual/sessions/S30_The_Integrated_System.md) |
+| **S21** | The Ghost Protocol | [Tactical Cockpit](./manual/sessions/S21_THE_GHOST_PROTOCOL.md) |
+| **S22** | Trigger vs. Threat | [Tactical Cockpit](./manual/sessions/S22_TRIGGER_VS._THREAT.md) |
+| **S23** | The Pattern Veto | [Tactical Cockpit](./manual/sessions/S23_THE_PATTERN_VETO.md) |
+| **S24** | The Stable Contact Blueprint | [Tactical Cockpit](./manual/sessions/S24_THE_STABLE_CONTACT_BLUEPRINT.md) |
+| **S25** | The Voice Rebuild | [Tactical Cockpit](./manual/sessions/S25_THE_VOICE_REBUILD.md) |
+| **S26** | Accountability Without Self-Destruction | [Tactical Cockpit](./manual/sessions/S26_ACCOUNTABILITY_WITHOUT_SELF-DESTRUCTION.md) |
+| **S27** | The Executive Function Restore | [Tactical Cockpit](./manual/sessions/S27_THE_EXECUTIVE_FUNCTION_RESTORE.md) |
+| **S28** | The Code Rewrite | [Tactical Cockpit](./manual/sessions/S28_THE_CODE_REWRITE.md) |
+| **S29** | The System Optimization | [Tactical Cockpit](./manual/sessions/S29_THE_SYSTEM_OPTIMIZATION.md) |
+| **S30** | The Integrated System | [Tactical Cockpit](./manual/sessions/S30_THE_INTEGRATED_SYSTEM.md) |
 
 ---
 

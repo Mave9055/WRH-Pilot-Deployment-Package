@@ -8,16 +8,16 @@
 
 | Arc 1: THE SYSTEM | Arc 2: THE DRIVERS | Arc 3: THE INTERRUPT |
 | :--- | :--- | :--- |
-| [S00: Intake & Safety](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S11: Shame Cycles](./WRH_FULL_PILOT_MANUAL_Session11_Refactored.md) | [S21: Permission Paradox](./WRH_FULL_PILOT_MANUAL_Session21_Refactored.md) |
-| [S01: The Incubator](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S12: Relapse as Regulation](./WRH_FULL_PILOT_MANUAL_Session12_Refactored.md) | [S22: Control Circuit](./WRH_FULL_PILOT_MANUAL_Session22_Refactored.md) |
-| [S02: The Hum](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S13: Identity Labels](./WRH_FULL_PILOT_MANUAL_Session13_Refactored.md) | [S23: Somatic Inventory](./WRH_FULL_PILOT_MANUAL_Session23_Refactored.md) |
-| [S03: The Blanket](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S14: Control & Avoidance](./WRH_FULL_PILOT_MANUAL_Session14_Refactored.md) | [S24: Pattern Veto](./WRH_FULL_PILOT_MANUAL_Session24_Refactored.md) |
-| [S04: The Razor](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S15: Loyalty to the Old System](./WRH_FULL_PILOT_MANUAL_Session15_Refactored.md) | [S25: Accountability Architecture](./WRH_FULL_PILOT_MANUAL_Session25_Refactored.md) |
-| [S05: Trauma Bonds](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S16: The Shame Engine](./WRH_FULL_PILOT_MANUAL_Session16_Refactored.md) | [S26: Safe Relationship Blueprint](./WRH_FULL_PILOT_MANUAL_Session26_Refactored.md) |
-| [S06: Survival Strategies](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S17: The Regulation Trap](./WRH_FULL_PILOT_MANUAL_Session17_Refactored.md) | [S27: Legacy Architecture](./WRH_FULL_PILOT_MANUAL_Session27_Refactored.md) |
-| [S07: The System Map](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S18: The Driver's Seat](./WRH_FULL_PILOT_MANUAL_Session18_Refactored.md) | [S28: Rewriting the Code](./WRH_FULL_PILOT_MANUAL_Session28_Refactored.md) |
-| [S08: The Feedback Loop](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S19: The Internal Driver](./WRH_FULL_PILOT_MANUAL_Session19_Refactored.md) | [S29: Executive Function Restoration](./WRH_FULL_PILOT_MANUAL_Session29_Refactored.md) |
-| [S09: The System Output](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S20: The Arc Summary](./WRH_FULL_PILOT_MANUAL_Session20_Refactored.md) | [S30: The Manifesto](./WRH_FULL_PILOT_MANUAL_Session30_Refactored.md) |
+| [S00: Intake & Safety](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S11: Shame Cycles](./sessions/S11_THE_BODY_KEEPS_SCORE.md) | [S21: Permission Paradox](./sessions/S21_THE_GHOST_PROTOCOL.md) |
+| [S01: The Incubator](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S12: Relapse as Regulation](./sessions/S12_TRIGGER_VS_ACTIVATION.md) | [S22: Control Circuit](./sessions/S22_TRIGGER_VS._THREAT.md) |
+| [S02: The Hum](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S13: Identity Labels](./sessions/S13_THE_THRESHOLD.md) | [S23: Somatic Inventory](./sessions/S23_THE_PATTERN_VETO.md) |
+| [S03: The Blanket](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S14: Control & Avoidance](./sessions/S14_FIGHT,_FLIGHT,_FREEZE_(Real_World_Version).md) | [S24: Pattern Veto](./sessions/S24_THE_STABLE_CONTACT_BLUEPRINT.md) |
+| [S04: The Razor](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S15: Loyalty to the Old System](./sessions/S15_THE_PATTERN_VETO.md) | [S25: Accountability Architecture](./sessions/S25_THE_VOICE_REBUILD.md) |
+| [S05: Trauma Bonds](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S16: The Shame Engine](./sessions/S16_TIME_COLLAPSE.md) | [S26: Safe Relationship Blueprint](./sessions/S26_ACCOUNTABILITY_WITHOUT_SELF-DESTRUCTION.md) |
+| [S06: Survival Strategies](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S17: The Regulation Trap](./sessions/S17_THE_PERMISSION_PARADOX.md) | [S27: Legacy Architecture](./sessions/S27_THE_EXECUTIVE_FUNCTION_RESTORE.md) |
+| [S07: The System Map](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S18: The Driver's Seat](./sessions/S18_THE_CONTROL_CIRCUIT.md) | [S28: Rewriting the Code](./sessions/S28_THE_CODE_REWRITE.md) |
+| [S08: The Feedback Loop](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S19: The Internal Driver](./sessions/S19_THE_SOMATIC_RECORD.md) | [S29: Executive Function Restoration](./sessions/S29_THE_SYSTEM_OPTIMIZATION.md) |
+| [S09: The System Output](./WRH_FULL_PILOT_MANUAL_Part1.md) | [S20: The Arc Summary](./sessions/S20_THE_CONSTRUCTED_SELF.md) | [S30: The Manifesto](./sessions/S30_THE_INTEGRATED_SYSTEM.md) |
 
 ---
 
