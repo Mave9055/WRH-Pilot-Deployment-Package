@@ -14,7 +14,9 @@ The WRH program is a psychoeducational curriculum focused on understanding the m
 - **Executive Function Arc:** Completion of Sessions S25–S30 focusing on `Executive Function Restoration` and `Rewriting the Code`.
 
 ## Pilot Site A: Stepping Stones Recovery of Arkansas
-We have officially locked in **Stepping Stones Recovery of Arkansas** (Hartman, AR) as Pilot Site A. This residential recovery program serves as our primary proof-of-concept for the 2026 deployment roadmap. For detailed site-specific logistics, see the [Stepping Stones Pilot Addendum](./pilots/Stepping_Stones_Pilot_Addendum.md).
+We have officially locked in **Stepping Stones Recovery of Arkansas** (Hartman, AR) as Pilot Site A. This residential recovery program serves as our primary proof-of-concept for the 2026 deployment roadmap. 
+
+**Latest Update (April 2026):** The Pilot Addendum has been updated to **Version 1.1**, incorporating refined residential recovery integration, zero-cost framing for the 2026 launch, and enhanced retention boosters to address the "learn 20, forget 80" challenge. For detailed site-specific logistics, see the [Stepping Stones Pilot Addendum](./pilots/Stepping_Stones_Pilot_Addendum.md).
 
 ## How to Deploy
 
@@ -39,7 +41,7 @@ WRH-Pilot-Deployment-Package/
 ├── digital-assets/               # Consolidated images and PDFs from other repos
 ├── legal/                        # Legal and business documents (e.g., Capability Statement, Program Description)
 ├── manual/                       # Official 30-session facilitator manuals and Glossary
-├── pilots/                       # Site-specific pilot deployment plans
+├── pilots/                       # Site-specific pilot deployment plans (v1.1 updated)
 └── portal/                       # Full-stack web application for digital content delivery
     ├── client/                   # Frontend React application
     ├── server/                   # Backend tRPC API and database logic
@@ -63,7 +65,7 @@ WRH-Pilot-Deployment-Package/
 | Document | Link |
 | :--- | :--- |
 | **Master Summary (All Sessions)** | [Open Summary](./SUMMARY.md) |
-| **Stepping Stones Pilot Addendum** | [Open Addendum](./pilots/Stepping_Stones_Pilot_Addendum.md) |
+| **Stepping Stones Pilot Addendum (v1.1)** | [Open Addendum](./pilots/Stepping_Stones_Pilot_Addendum.md) |
 | **WRH Program Description (Federal)** | [Open Description](./legal/WRH_Program_Description_Federal.md) |
 | **Safety & Participation Rules** | [Open Rules](./checklists/Safety_and_Participation_Rules.md) |
 | **Facilitator Readiness Checklist** | [Open Checklist](./checklists/Facilitator_Readiness_Checklist.md) |
