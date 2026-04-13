@@ -1,10 +1,14 @@
 # CAPITOL CONTRACTS LLC — ARKANSAS SDVOSB
-## **WRH Pilot Deployment Package: Pilot Site A — Stepping Stones Recovery**
+## **WRH PILOT DEPLOYMENT PACKAGE: STEPPING STONES RECOVERY**
 ### **Official 30-Session Pilot Proposal & Program Overview**
 **Date:** April 2026  
 **Founder:** [Your Name], Service-Disabled Veteran Owner  
 **Location:** Clarksville, Arkansas  
 **Contact:** [Your Email] | [Your Phone]
+
+---
+
+## **"EMPOWERING LIVES, BUILDING HOPE, FOSTERING RECOVERY"**
 
 ---
 
@@ -19,8 +23,17 @@ As a **Service-Disabled Veteran-Owned Small Business (SDVOSB)**, our mission is 
 **Location:** 1561 County Road 2305, Hartman, AR  
 **Status:** Zero-Cost Pilot (2026 Launch)
 
+### **Leadership Team:**
+- **Joseph Cruz**, Founder & Peer Supervisor
+- **Tammy Dodson-Hernandez**, Management Professional
+- **Jayme Brice**, Recovery Pastor
+- **Chrissy Phillips, LMSW**, Therapist
+- **Robbie Willis**, Discipleship Pastor
+- **Dangie Casper**, Peer Recovery Supervisor
+- **Todd Lovell**, Advisory Board Member
+
 ### **Zero-Cost Framing**
-This pilot is a **zero-cost mission-aligned investment** for the 2026 launch phase. Capitol Contracts LLC provides the full curriculum, facilitator training, and digital assets at no cost in exchange for high-fidelity delivery and anonymized outcome data.
+This pilot is a **zero-cost mission-aligned investment** for the 2026 launch phase. Capitol Contracts LLC provides the full curriculum, facilitator training, and digital assets at no cost to Stepping Stones in exchange for high-fidelity delivery and anonymized outcome data.
 
 ### **Residential Integration**
 - **Scheduling:** Integrated into existing residential routines (SUD/Recovery).
@@ -54,7 +67,7 @@ Focus: The Pattern Veto, Executive Function Restore, and The Code Rewrite.
 
 ### **Safety & Risk Management**
 - **Yellow/Red Light Protocol:** Standardized room regulation and opt-out options.
-- **Warm-Handoff Protocol:** Immediate connection to the **Veterans Crisis Line (988, press 1)** or on-site clinical staff.
+- **Warm-Handoff Protocol:** Immediate connection to the **Veterans Crisis Line (988, press 1)** or on-site Stepping Stones clinical staff.
 - **Non-Clinical Boundary:** WRH is psychoeducational, not therapeutic.
 
 ---
@@ -77,4 +90,4 @@ Focus: The Pattern Veto, Executive Function Restore, and The Code Rewrite.
 - **Status:** SDVOSB (Service-Disabled Veteran-Owned Small Business)
 
 ---
-*Capitol Contracts LLC | WRH Pilot Deployment | April 2026*
+*Capitol Contracts LLC | Stepping Stones Pilot Deployment | April 2026*

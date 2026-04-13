@@ -1,14 +1,29 @@
 # WRH HIGH-VALUE ASSETS SHOWCASE
 ## **Deployment Infrastructure — Version 4.0 "Technical Standard"**
 
-This page serves as a professional gallery for the core assets of the **What Really Happened (WRH)** Pilot Deployment Package. These tools are designed to support high-fidelity delivery, institutional outreach, and participant safety.
+---
+
+## **"Empowering Lives, Building Hope, Fostering Recovery"**
+
+---
+
+This page serves as a professional gallery for the core assets of the **What Really Happened (WRH)** Pilot Deployment Package, specifically tailored for our partnership with **Stepping Stones Recovery of Arkansas**.
+
+### **Stepping Stones Leadership Team:**
+- **Joseph Cruz**, Founder & Peer Supervisor
+- **Tammy Dodson-Hernandez**, Management Professional
+- **Jayme Brice**, Recovery Pastor
+- **Chrissy Phillips, LMSW**, Therapist
+- **Robbie Willis**, Discipleship Pastor
+- **Dangie Casper**, Peer Recovery Supervisor
+- **Todd Lovell**, Advisory Board Member
 
 ---
 
 ## **1. THE ONE-CLICK PILOT PROPOSAL**
 **The primary outreach tool for Directors and Federal Buyers.**
 
-This self-contained PDF combines the **Stepping Stones Pilot Addendum v1.1**, **Capability Statement**, and **Program Overview** into a single, professionally branded document.
+This self-contained PDF combines the **Stepping Stones Pilot Addendum v1.2**, **Capability Statement**, and **Program Overview** into a single, professionally branded document.
 
 [**DOWNLOAD THE ONE-CLICK PROPOSAL (PDF)**](./assets/One_Click_Pilot_Proposal.pdf)
 
@@ -60,4 +75,4 @@ This self-contained PDF combines the **Stepping Stones Pilot Addendum v1.1**, **
 - [**Pilot Outcomes & Proof-of-Concept**](./outcomes/Pilot_Outcomes_Proof_of_Concept.md)
 
 ---
-*Capitol Contracts LLC | WRH Pilot Deployment | April 2026*
+*Capitol Contracts LLC | Stepping Stones Pilot Deployment | April 2026*
