@@ -13,6 +13,9 @@ The WRH program is a psychoeducational curriculum focused on understanding the m
 - **Glossary Linking:** Consistent use of `Code Text` for key program terms (e.g., `The Hum`, `The Pattern Veto`).
 - **Executive Function Arc:** Completion of Sessions S25–S30 focusing on `Executive Function Restoration` and `Rewriting the Code`.
 
+## Pilot Site A: Stepping Stones Recovery of Arkansas
+We have officially locked in **Stepping Stones Recovery of Arkansas** (Hartman, AR) as Pilot Site A. This residential recovery program serves as our primary proof-of-concept for the 2026 deployment roadmap. For detailed site-specific logistics, see the [Stepping Stones Pilot Addendum](./pilots/Stepping_Stones_Pilot_Addendum.md).
+
 ## How to Deploy
 
 This repository supports two primary deployment methods:
@@ -32,10 +35,11 @@ WRH-Pilot-Deployment-Package/
 ├── README.md                     # This file
 ├── SUMMARY.md                    # Master navigation and program overview
 ├── assets/                       # General program assets (e.g., Plan B Wallet Card, VA Program Description)
-├── checklists/                   # Facilitator checklists (e.g., Facilitator Readiness Checklist, Risk Management Checklist)
+├── checklists/                   # Facilitator checklists and safety rules
 ├── digital-assets/               # Consolidated images and PDFs from other repos
-├── legal/                        # Legal and business documents (e.g., Capability Statement, Confidentiality Agreement)
+├── legal/                        # Legal and business documents (e.g., Capability Statement, Program Description)
 ├── manual/                       # Official 30-session facilitator manuals and Glossary
+├── pilots/                       # Site-specific pilot deployment plans
 └── portal/                       # Full-stack web application for digital content delivery
     ├── client/                   # Frontend React application
     ├── server/                   # Backend tRPC API and database logic
@@ -59,6 +63,9 @@ WRH-Pilot-Deployment-Package/
 | Document | Link |
 | :--- | :--- |
 | **Master Summary (All Sessions)** | [Open Summary](./SUMMARY.md) |
+| **Stepping Stones Pilot Addendum** | [Open Addendum](./pilots/Stepping_Stones_Pilot_Addendum.md) |
+| **WRH Program Description (Federal)** | [Open Description](./legal/WRH_Program_Description_Federal.md) |
+| **Safety & Participation Rules** | [Open Rules](./checklists/Safety_and_Participation_Rules.md) |
 | **Facilitator Readiness Checklist** | [Open Checklist](./checklists/Facilitator_Readiness_Checklist.md) |
 | **WRH Glossary** | [Open Glossary](./manual/WRH_Glossary.md) |
 | **Plan B Wallet Card** | [Open Asset](./assets/Plan_B_Wallet_Card.md) |
