@@ -6,6 +6,11 @@ This summary is the single navigation point for the **What Really Happened (WRH)
 
 ---
 
+## **[VIEW HIGH-VALUE ASSETS SHOWCASE](./ASSETS_SHOWCASE.md)**
+*A professional gallery of the One-Click PDF, rendered blueprints, and facilitator/participant tools.*
+
+---
+
 ## Arc 1: The Machine (S00 – S10)
 *How the system gets built into you.*
 

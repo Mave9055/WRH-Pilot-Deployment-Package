@@ -19,6 +19,11 @@ As a **Service-Disabled Veteran-Owned Small Business (SDVOSB)**, Capitol Contrac
 
 ---
 
+## **[VIEW HIGH-VALUE ASSETS SHOWCASE](./ASSETS_SHOWCASE.md)**
+*A professional gallery of the One-Click PDF, rendered blueprints, and facilitator/participant tools.*
+
+---
+
 ## **Key Deployment Documents**
 
 | Category | Document | Description |
