@@ -4,12 +4,12 @@
 ---
 
 ## **Business Entity Information**
-**Capitol Contracts LLC** is a Service-Disabled Veteran-Owned Small Business (SDVOSB) specializing in trauma psychoeducation and institutional deployment.
+**Capitol Contracts LLC** is a   ) specializing in trauma psychoeducation and institutional deployment.
 
 | Field | Information |
 | :--- | :--- |
 | **Entity Name** | Capitol Contracts LLC |
-| **Socio-Economic Status** | SDVOSB (Service-Disabled Veteran-Owned Small Business) |
+| **Socio-Economic Status** |  () |
 | **UEI Number** | [Insert UEI Number Placeholder] |
 | **CAGE Code** | [Insert CAGE Code Placeholder] |
 | **Primary NAICS Code** | **611710** (Educational Support Services) |

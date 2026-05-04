@@ -68,7 +68,7 @@ This self-contained PDF combines the **Stepping Stones Pilot Addendum v1.2**, **
 ---
 
 ## **4. INSTITUTIONAL TRUST SIGNALS**
-**Essential data for federal contracting and SDVOSB status.**
+**Essential data for federal contracting and  status.**
 
 - [**Capability Statement**](./legal/Capability_Statement.md)
 - [**Compliance & Trust Signals (NAICS/UEI)**](./legal/Compliance_and_Trust_Signals.md)

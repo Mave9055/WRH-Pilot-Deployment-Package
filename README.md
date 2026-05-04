@@ -9,8 +9,8 @@
 
 ---
 
-## **Why We Do This (SDVOSB Founder Mission)**
-As a **Service-Disabled Veteran-Owned Small Business (SDVOSB)**, Capitol Contracts LLC developed WRH to deliver systems-level tools that directly address the root causes of isolation, avoidance, and suicide risk in high-risk settings. Our mission is to provide a "Technical Standard" for trauma education that makes tools stick where traditional therapy often fails.
+## **Why We Do This   Founder Mission)**
+As a **  )**, Capitol Contracts LLC developed WRH to deliver systems-level tools that directly address the root causes of isolation, avoidance, and suicide risk in high-risk settings. Our mission is to provide a "Technical Standard" for trauma education that makes tools stick where traditional therapy often fails.
 
 ---
 
@@ -51,7 +51,7 @@ As a **Service-Disabled Veteran-Owned Small Business (SDVOSB)**, Capitol Contrac
 ---
 
 ## **Legal & Compliance**
-- [**Compliance & Trust Signals**](./legal/Compliance_and_Trust_Signals.md) — NAICS, UEI, and SDVOSB status.
+- [**Compliance & Trust Signals**](./legal/Compliance_and_Trust_Signals.md) — NAICS, UEI, and  status.
 - [**Non-Clinical Disclaimer**](./legal/Compliance_and_Trust_Signals.md#non-clinical-disclaimer) — Liability protection.
 
 ---

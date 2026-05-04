@@ -1,4 +1,4 @@
-# CAPITOL CONTRACTS LLC — ARKANSAS SDVOSB
+# CAPITOL CONTRACTS LLC — ARKANSAS 
 ## **WRH PILOT DEPLOYMENT PACKAGE: STEPPING STONES RECOVERY**
 ### **Official 30-Session Pilot Proposal & Program Overview**
 **Date:** April 2026  
@@ -15,7 +15,7 @@
 ## **1. EXECUTIVE SUMMARY**
 **Capitol Contracts LLC** presents the **What Really Happened (WRH)** curriculum — a 30-session psychoeducational program designed to interrupt trauma-driven behavioral loops and restore executive function. 
 
-As a **Service-Disabled Veteran-Owned Small Business (SDVOSB)**, our mission is to deliver systems-level tools that address the root causes of isolation, avoidance, and suicide risk. WRH is built on a **non-exposure, mechanism-first model**, allowing participants to understand their nervous system's survival code without being forced to recount personal trauma.
+As a **  )**, our mission is to deliver systems-level tools that address the root causes of isolation, avoidance, and suicide risk. WRH is built on a **non-exposure, mechanism-first model**, allowing participants to understand their nervous system's survival code without being forced to recount personal trauma.
 
 ---
 
@@ -87,7 +87,7 @@ Focus: The Pattern Veto, Executive Function Restore, and The Code Rewrite.
 ### **CAPABILITY STATEMENT (SUMMARY)**
 - **UEI:** [Your UEI] | **CAGE:** [Your CAGE]
 - **NAICS:** 611710 (Educational Support Services)
-- **Status:** SDVOSB (Service-Disabled Veteran-Owned Small Business)
+- **Status:**  ()
 
 ---
 *Capitol Contracts LLC | Stepping Stones Pilot Deployment | April 2026*

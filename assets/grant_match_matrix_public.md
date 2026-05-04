@@ -18,7 +18,7 @@ The Capitol Contracts LLC 18-module trauma literacy framework is designed for hi
 * **SAMHSA-Aligned**: Grounded in the Six Principles of Trauma-Informed Care.
 * **GPRA-Ready**: Evaluation architecture supports Government Performance and Results Act reporting.
 * **Scope-of-Practice Compliant**: Designed for peer facilitators and paraprofessionals.
-* **VOSB Status**: Veteran-Owned Small Business (SDVOSB/HUBZone in preparation).
+* **VOSB Status**: Veteran-Owned Small Business  /HUBZone in preparation).
 
 ### Implementation Support
 Capitol Contracts LLC provides full technical assistance for grant applicants, including:
